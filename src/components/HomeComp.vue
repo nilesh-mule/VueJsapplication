@@ -6,17 +6,17 @@
 				<a href="index.html" class="logo"><img :src="getImagePath('logo.png')" alt="logo"></a>
 				<ul id="navigation">
 					<li class="selected">
-						<router-link to="/" class="pr-6">Home</router-link>
+						<router-link to="/" class="pr-6 pl-2">Home</router-link>
 						
 					</li>
 					<li>
-                        <router-link to="/about" class="pr-6">About</router-link>
+                        <router-link to="/about" class="pr-6 pl-2">About</router-link>
 					</li>
 					<li class="menu">
-						<router-link to="/blog" class="pr-6">Blog</router-link>
+						<router-link to="/blog" class="pr-6 pl-2">Blog</router-link>
 					</li>
 					<li>
-						<router-link to="/contact" class="pr-6">Contact</router-link>
+						<router-link to="/contact" class="pr-6 pl-2">Contact</router-link>
 					</li>
 				</ul>
 			</div>
