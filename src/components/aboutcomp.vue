@@ -51,7 +51,7 @@
 		</div>
 		<div id="footer">
 			<div class="connect">
-				<div>
+				<div class="text-xs">
 					<h1>FOLLOW OUR  MISSIONS ON</h1>
 					<div>
 						<a href="#" class="facebook">facebook</a>
